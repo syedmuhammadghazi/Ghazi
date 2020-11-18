@@ -80,9 +80,9 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92m MUHAMMAD
-\033[1;96mInstagram \033[1;93m: \033[1;92m Syed
-\033[1;96mFacebook  \033[1;93m: \033[1;92m 420
+\033[1
+\033[1996mInstagram \033[1;93m: \033[1;92m GHAZI SHAH
+\033[1;96mFacebook  \033[1;93m: \033[1;92m ghazi.shah.73932
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Ghazi/zero
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
@@ -109,7 +109,7 @@ def login():
 	os.system('clear')
 	try:
 		toket = open('login.txt','r')
-		menu() 
+		menu = FACEBOOK FRND LIST CLONE  
 	except (KeyError,IOError):
 		os.system('clear')
 		print logo
